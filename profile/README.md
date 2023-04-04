@@ -1,4 +1,4 @@
-Enwicklungsbüro Stresing is a German distributer for specialized line scan cameras and spectrometers used in research and industry. See [stresing.de](stresing.de) for more information. These repositories contain the software for operating the cameras.
+Enwicklungsbüro Stresing is a German distributer for specialized line scan cameras and spectrometers used in research and industry. See [stresing.de](http://stresing.de/) for more information. These repositories contain the software for operating the cameras.
 
 repositroy                                                                        | description
 :---                                                                              | :---
