@@ -8,7 +8,7 @@ repositroy                                                                      
 [stresing_python](https://github.com/Entwicklungsburo-Stresing/stresing_python)   | A basic Python script to operate the camera | [![GitHub version](https://badge.fury.io/gh/Entwicklungsburo-Stresing%2Fstresing_python.svg)](https://github.com/Entwicklungsburo-Stresing/stresing_python)
 
 ### Windows drivers
-You can download the windows device driver [here](http://stresing.de/dwnl/EBSTDRV14V00.rar).
+You can download the windows device driver [here](http://stresing.de/dwnl/ebstdrv14v00.rar).
 
 ### Documentation
 For more documentation see the readme files in the repositories, the [software documentation](https://entwicklungsburo-stresing.github.io/) generated with doxygen or read the manual, which you were given on delivery.
